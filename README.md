@@ -63,11 +63,10 @@
 </code>
 
 
-## I'm @anabelisam in internet
-
-🔎 Finally, you can find me in:
+## 🔎can contact me on my social networks:
  
-<code><a href="https://www.linkedin.com/in/anabelisam"><img width="10%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code>
-<code><a href="https://twitter.com/anabelisam_"><img width="10%" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg"></a></code>
-<code><a href="https://www.youtube.com/anabelisam"><img width="10%" src="https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg"></a></code>
-<code><a href="https://twitch.tv/anabelisam"><img width="10%" src="https://www.vectorlogo.zone/logos/twitch/twitch-horizontal.svg"></a></code>
+<code><a href="https://www.linkedin.com/in/john-alexander-andrade-diaz"><img width="10%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code>
+<code><a href="https://twitter.com/johnandrade18"><img width="10%" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg"></a></code>
+<code><a href="https://www.youtube.com/channel/UCajkFCPSHLBJ4qBoVbGQg2g"><img width="10%" src="https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg"></a></code>
+<code><a href="https://www.instagram.com/j.kamuz/"><img width="10%" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"></a></code>
+<code><a href="https://es-la.facebook.com/kamuz18"><img width="10%" src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg"></a></code>
