@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi! I'm Ana Belisa Martinez, Backend Developer, Project Manager and Program Manager at Platzi Master 👋
+### Hi! I'm John Alexander Andrade, Full-Stack Developer 👋
 
-💪🏼 Training to the best developers in the tech industry ✨
+💪🏼 Continuous learning ability ✨
 
-🌟 I had worked in tech for 10 years, and now i dedicate my life to online education, content generation and my Masters 💚.
+🌟I have been working for 6 years in the area of ​​technologies focusing on the area of ​​development of computer systems 💚.
 
-📊 My favorites projects of my career were in Education, Health, Stats, Customer Service and PMP.
+📊 My favorite projects of my career were in the financial sector, Food, Distribution, Customer Service..
 
-👩🏻‍💻 As developer i had worked with (and more):
+👩🏻‍💻 As a developer, I have worked with:
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/stripe/stripe-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
 
