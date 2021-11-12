@@ -16,32 +16,24 @@ Here are some ideas to get you started:
 -->
 
 
-# README.MD
-Making attractive and usable readme's. 
-This is a short description about the content of my proyect. This text have to be simple and explicit.
+### Hi! I'm Ana Belisa Martinez, Backend Developer, Project Manager and Program Manager at Platzi Master 👋
 
-## Content
-This proyect has two branches: develop1 and develop2. **develop1** contains the tests of the repositories and **develop2** contains the test of the use cases.
+💪🏼 Training to the best developers in the tech industry ✨
 
-## Demo
-If you want to see the demo of this proyect deployed, you can visit [Demo of the proyect](https://anabelisa.co/tips-para-hacer-un-buen-readme-md/)
+🌟 I had worked in tech for 10 years, and now i dedicate my life to online education, content generation and my Masters 💚.
 
-## How to clone
-If you have special requirements, you have to list it step by step.
-* This is the first step
-* Then you have to do this
-* Finally do this
+📊 My favorites projects of my career were in Education, Health, Stats, Customer Service and PMP.
 
-Markdown has enumation and nested lists.
+👩🏻‍💻 As developer i had worked with (and more):
 
-## Installation
-To install and run this proyect just type and execute
-```bash
-npm install
-```
-## Preview
-Insert here an image of the preview if your project has one. The image can be into the project, you have to indicate the route and look like this.
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/stripe/stripe-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
 
 
-### Notes
-If you want to learn all about markdown i recommend you visit the site [markdown.es](https://markdown.es/sintaxis-markdown/)
+## I'm @anabelisam in internet
+
+🔎 Finally, you can find me in:
+ 
+<code><a href="https://www.linkedin.com/in/anabelisam"><img width="10%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code>
+<code><a href="https://twitter.com/anabelisam_"><img width="10%" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg"></a></code>
+<code><a href="https://www.youtube.com/anabelisam"><img width="10%" src="https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg"></a></code>
+<code><a href="https://twitch.tv/anabelisam"><img width="10%" src="https://www.vectorlogo.zone/logos/twitch/twitch-horizontal.svg"></a></code>
