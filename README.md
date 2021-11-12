@@ -26,7 +26,44 @@ Here are some ideas to get you started:
 
 👩🏻‍💻 As a developer, I have worked with:
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/stripe/stripe-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+<code>
+<img width="10%" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg">
+</code>
+<code>
+<img width="10%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg">
+</code> 
+<code>
+<img width="10%" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg">
+</code>
+<code>
+<img width="10%" src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-ar21.svg">
+</code>
+<code>
+<img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+</code> 
+<code>
+<img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg">
+</code> 
+<code>
+<img width="10%" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21.svg">
+</code> 
+<code>
+<img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg">
+</code> 
+<code>
+<img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
+<code>
+<img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg">
+</code> 
+<code>
+<img width="10%" src="https://e7.pngegg.com/pngimages/515/909/png-clipart-microsoft-sql-server-computer-servers-database-microsoft-microsoft-sql-server-server-computer.png">
+</code> 
+<code>
+<img width="10%" src="https://www.vectorlogo.zone/logos/stripe/stripe-ar21.svg">
+</code> 
+<code>
+<img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg">
+</code>
 
 
 ## I'm @anabelisam in internet
