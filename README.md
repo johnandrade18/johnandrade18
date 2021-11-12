@@ -53,7 +53,7 @@
 <img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
 </code> 
 <code>
-<img width="10%" src="https://e7.pngegg.com/pngimages/515/909/png-clipart-microsoft-sql-server-computer-servers-database-microsoft-microsoft-sql-server-server-computer.png">
+<img width="10%" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
 </code> 
 <code>
 <img width="10%" src="https://www.vectorlogo.zone/logos/stripe/stripe-ar21.svg">
