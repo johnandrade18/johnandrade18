@@ -1,26 +1,8 @@
-### Hi there 👋
-
-<!--
-**johnandrade18/johnandrade18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 ### Hi! I'm John Alexander Andrade, Full-Stack Developer 👋
 
 💪🏼 Continuous learning ability ✨
 
-🌟I have been working for 6 years in the area of ​​technologies focusing on the area of ​​development of computer systems 💚.
+🌟I have been working for 6 years in the area of ​\u200b​technologies focusing on the area of ​\u200b​development of computer systems 💚.
 
 📊 My favorite projects of my career were in the financial sector, Food, Distribution, Customer Service..
 
