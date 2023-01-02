@@ -13,9 +13,11 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code> 
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"></code> 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code> 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21.svg"></code> 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code> 
+<code><img width="10%" src="https://seeklogo.com/images/N/nextjs-logo-963D40B71E-seeklogo.com.png"></code> 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apollographql/apollographql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
@@ -23,9 +25,11 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"></code> 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code> 
-<code><img width="10%" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"></code> 
+<code><img width="10%" src="https://www.liblogo.com/img-logo/mi437sa21-microsoft-sql-server-logo-sql-server-script-to-create-insert-statements-deep-in-the-code.png"></code> 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/stripe/stripe-ar21.svg"></code> 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
 
 
 ## 🔎can contact me on my social networks:
